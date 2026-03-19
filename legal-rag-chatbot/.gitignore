@@ -1,0 +1,22 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.venv/
+
+# Data (keep folder, ignore content)
+data/documents/*.pdf
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
